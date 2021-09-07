@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/viraltrack/static/css/main.54d43338.chunk.css",
+    "main.js": "/viraltrack/static/js/main.82113e7f.chunk.js",
+    "main.js.map": "/viraltrack/static/js/main.82113e7f.chunk.js.map",
+    "runtime-main.js": "/viraltrack/static/js/runtime-main.2e0e7a70.js",
+    "runtime-main.js.map": "/viraltrack/static/js/runtime-main.2e0e7a70.js.map",
+    "static/css/2.7c35e809.chunk.css": "/viraltrack/static/css/2.7c35e809.chunk.css",
+    "static/js/2.cc2249d4.chunk.js": "/viraltrack/static/js/2.cc2249d4.chunk.js",
+    "static/js/2.cc2249d4.chunk.js.map": "/viraltrack/static/js/2.cc2249d4.chunk.js.map",
+    "index.html": "/viraltrack/index.html",
+    "precache-manifest.1cba946ba196289863c5b1285e86c3cf.js": "/viraltrack/precache-manifest.1cba946ba196289863c5b1285e86c3cf.js",
+    "service-worker.js": "/viraltrack/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/viraltrack/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.54d43338.chunk.css.map": "/viraltrack/static/css/main.54d43338.chunk.css.map",
+    "static/js/2.cc2249d4.chunk.js.LICENSE.txt": "/viraltrack/static/js/2.cc2249d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0e7a70.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.cc2249d4.chunk.js",
+    "static/css/main.54d43338.chunk.css",
+    "static/js/main.82113e7f.chunk.js"
+  ]
+}
